@@ -6,4 +6,4 @@ def test_health_check():
 
 
 def test_get_version():
-    assert get_version() == {"version": "1.0.0"}
+    assert get_version() == {"version": "2.0.0"}
